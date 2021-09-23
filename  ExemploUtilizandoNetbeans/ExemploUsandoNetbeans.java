@@ -41,7 +41,7 @@ public class ExemploUsandoNetbeans {
                     palpite--;
                     System.out.println("Resposta errada!");
                     System.out.println("Restam "+palpite+" palpites");
-                    if (palpite == 0) {
+                    if(palpite == 0) {
                         System.out.println("Os palpites acabaram, você não acertou!");
                         System.out.println("O número era "+escolha_computador);
                         break;
@@ -49,7 +49,7 @@ public class ExemploUsandoNetbeans {
                 } else {
                     System.out.println("Parabéns! você acertou!");
                 }
-            } while (escolha_computador != escolha_usuario);
+            } while(escolha_computador != escolha_usuario);
         }
     }
 }
