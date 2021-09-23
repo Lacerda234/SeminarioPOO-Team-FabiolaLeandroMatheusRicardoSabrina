@@ -8,7 +8,7 @@ public class testando {
         soma= nota1 + nota2 + nota3;
         media = soma / 3;
 
-        JOptionPane.showMessageDialog(null, " A media eh: "+media);
+        JOptionPane.showMessageDialog(null," A media eh: "+media);
 
     }
 }
