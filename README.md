@@ -1,1 +1,3 @@
 # SeminarioPOO-Team-FabiolaLeandroMatheusRicardoSabrina
+
+O presente trabalho tem como objetivo traçar comparativos entre as IDE’s Java, apresentando aspectos gerais e individuais do Eclipse, IntelliJ, Netbeans, BlueJ e VS Code, com o intuito de demonstrar, num primeiro momento teórico, suas respectivas características, tutoriais, vantagens, desvantagens, etc. E em segundo plano, uma demonstração mais prática da utilização de cada um dos IDE’s acima citados.
