@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("\nSeminário da disciplina de Programação Orientada a Objetos. "
                 + "\nTema - Comparativo de IDEs Java. "
-                + "\nGrupo 2 - Fabiola Diniz, Leandro Felix, Matheus Valença,  Ricardo Oliveira e Sabrina Salviano.");
+                + "\nGrupo 2 - Fabiola Diniz, Leandro Felix, Matheus Valença, Ricardo Oliveira e Sabrina Salviano.");
 
         // Soma de dois números inteiros.
 
